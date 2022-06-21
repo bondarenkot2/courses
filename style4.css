@@ -1,0 +1,81 @@
+.section1{
+    background-color: rgb(197, 187, 170);
+    display: flex;
+}
+
+.my_names{
+    background-color: rgb(177, 148, 96);
+    display: flex;
+  
+}
+
+
+
+.my_first_name1{
+    background-color: rgb(115, 92, 52);
+    display: flex;
+
+ 
+
+}
+
+.my_first_name2{
+    background-color: rgb(197, 187, 170);
+    display: inline-block;
+   color:rgb(22, 19, 22);
+ 
+
+}
+
+
+
+.image_block{
+    background-color: rgb(197, 187, 170);
+    display: inline-block;
+    color:rgb(22, 19, 22);
+
+
+    /* border:solid 1px; margin:5px; */
+}
+
+
+h1 {color:rgb(44, 41, 41);
+    src: url('../fonts/Roboto/Roboto-Black.ttf');
+    font: weight 900px;
+ }
+
+
+ h2 {color:rgb(44, 41, 41);
+    src: url('../fonts/Roboto/Roboto-Black.ttf');
+    font: weight 900px;
+ }
+ 
+
+ h3 {color:rgb(7, 7, 7);
+    src: url('../fonts/Roboto/Roboto-Black.ttf');
+    font: weight 900px;;
+ }
+
+ .my_first_name2{
+    position: relative;
+    z-index:2;
+    font-family:'Roboto 1';
+    font-weight: 900;
+    font-style: italic;
+
+    font-size: 3em;
+
+  
+}
+
+.my_first_name3{
+    position: relative;
+    z-index:2;
+    font-family:'Roboto 1';
+    font-weight: 900;
+    font-style: italic;
+
+    font-size: 2em;
+
+  
+}
